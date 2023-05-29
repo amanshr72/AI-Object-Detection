@@ -7,11 +7,11 @@ This is a web AI object detection. You can use it in your web browser. This web 
 - ✅ Toggle switch to turn AI on or off
 - ✅ Range slider to control frame rate
 
-## 🖼️ Images
-<a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
-
 ## 💪 Try it
 Checkout: https://aman-ai-project-object-detection.netlify.app/
+
+## 🖼️ Images
+<a href="https://ibb.co/JCNgfJr"><img src="https://i.ibb.co/3kwQDZS/preview-combined.jpg" alt="preview-combined" width="100%"></a>
 
 ## 🌐 Multiple browser support
 Probably this will work with the most browsers, but here is a list which browsers I have tested: 
